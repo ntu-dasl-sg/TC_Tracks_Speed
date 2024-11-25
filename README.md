@@ -62,4 +62,5 @@ TC_Tracks_Speed/
 ```
 
 *Written by Maricar L Rabonza (Nov 2024)*
+*maricar.rabonza@ntu.edu.sg*
 
