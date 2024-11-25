@@ -35,7 +35,6 @@ https://data.4tu.nl/articles/dataset/STORM_IBTrACS_present_climate_synthetic_tro
 Datasets consisting of 10,000 years of synthetic tropical cyclone tracks, generated using the Synthetic Tropical cyclOne geneRation Model (STORM) algorithm (see Bloemendaal et al, Generation of a Global Synthetic Tropical cyclone Hazard Dataset using STORM, in review). The dataset is generated using historical data from IBTrACS and resembles present-climate conditions. The data can be used to calculate tropical cyclone risk in all (coastal) regions prone to tropical cyclones.
 
 
-
 ## Files:
 
 This repository is organised as follows.
@@ -58,9 +57,7 @@ TC_Tracks_Speed/
 │   ├── wp_present/          # output: historical TC tracks with translational speed
 │ 
 └── README.md                # overview
+```
 
-
-*Written by ML Rabonza (Nov 2024)*
-
-
+*Written by Maricar L Rabonza (Nov 2024)*
 
