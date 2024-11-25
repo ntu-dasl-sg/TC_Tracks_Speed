@@ -43,7 +43,6 @@ This repository is organised as follows. Contents of `data/` and `output/` folde
 
 ```
 TC_Tracks_Speed/
-├── README.md                    # overview
 │ 
 ├── CalculateTCSpeed.R           # R Script for calculating translational speed for 1 TC track
 ├── CalculateTCSpeed_batch.R     # R Script for batch calculation for multiple TC tracks
