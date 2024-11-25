@@ -4,7 +4,9 @@
 
 I calculated the translational speed for synthetic tropical cyclone (TC) tracks for the Philippines for both historical and future-climate conditions.
 
-Download link for the outputs: 
+Two options to download the TC track data with speed:
+1 -- Download the full 
+
 Units: Speed in meters per second
 
 
