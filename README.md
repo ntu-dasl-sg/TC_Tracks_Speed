@@ -39,7 +39,7 @@ Datasets consisting of 10,000 years of synthetic tropical cyclone tracks, genera
 
 ## Files:
 
-This repository is organised as follows.
+This repository is organised as follows. Contents of `data/` and `output/` folders are too big to upload in Github, hence uploaded to OneDrive instead. See link above.
 
 ```
 TC_Tracks_Speed/
