@@ -49,13 +49,13 @@ TC_Tracks_Speed/
 │ 
 ├── data/                        # input data files from STORM
 │   ├── wp_future/               # raw data: future TC tracks for the WP basin (where PH is located)
-│   ├── wp_present/              # raw data: historical TC tracks for the WP basin
+│   ├── wp_historical/              # raw data: historical TC tracks for the WP basin
 │   └── README_future.txt        # Readme file from STORM website about future TC track data
 │   └── README_historical.txt    # Readme file from STORM website about historical TC track data
 │
 ├── output/                  # output files 
 │   ├── wp_future/           # output: future TC tracks with translational speed 
-│   ├── wp_present/          # output: historical TC tracks with translational speed
+│   ├── wp_historical/          # output: historical TC tracks with translational speed
 │ 
 └── README.md                # overview
 ```
