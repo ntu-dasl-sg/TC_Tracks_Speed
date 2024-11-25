@@ -5,15 +5,19 @@
 I calculated the translational speed for synthetic tropical cyclone (TC) tracks for the Philippines for both historical and future-climate conditions.
 
 Download link for the outputs: 
+Units: Speed in meters per second
 
-As input, I used the tracks generated using the Synthetic Tropical cyclOne geneRation Model (STORM) algorithm (see Bloemendaal et al, Generation of a Global Synthetic Tropical cyclone Hazard Dataset using STORM, in review). In the STORM database, Philippines is in the WP basin. Each track data from STORM has information on the time step and location coordinates.
 
 
 ## Methodology
+
+As input, I used the tracks generated using the Synthetic Tropical cyclOne geneRation Model (STORM) algorithm (see Bloemendaal et al, Generation of a Global Synthetic Tropical cyclone Hazard Dataset using STORM, in review). In the STORM database, Philippines is in the WP basin. Each track data from STORM has information on the time step and location coordinates.
+
 The translational speed is calculated as the distance divided by the time interval between consecutive time steps. Calculating the translational speed needs to consider the curvature of the Earth. Hence, I use the haversine formula in computing the great-circle distance between consecutive latitude-longitdue pairs. 
 
-For each TC track from STORM, I added a column that corresponds to the translational speed of the TC's centroid in meters per second. 
+The translational speed is calculated for each time step except the first one (since it has no previous data point). Hence, speed is NA at time step = 0.
 
+For each TC track from STORM, I added a column that corresponds to the translational speed of the TC's centroid in meters per second. 
 
 
 ## Data source:
