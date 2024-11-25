@@ -46,8 +46,8 @@ TC_Tracks_Speed/
 ├── CalculateTCSpeed.R           # R Script for calculating translational speed for 1 TC track
 ├── CalculateTCSpeed_batch.R     # R Script for batch calculation for multiple TC tracks
 │ 
-├── data/                        # data files from STORM
-│   ├── wp_future/               # raw data: future TC tracks for the WP basin
+├── data/                        # input data files from STORM
+│   ├── wp_future/               # raw data: future TC tracks for the WP basin (where PH is located)
 │   ├── wp_present/              # raw data: historical TC tracks for the WP basin
 │   └── README_future.txt        # Readme file from STORM website about future TC track data
 │   └── README_historical.txt    # Readme file from STORM website about historical TC track data
