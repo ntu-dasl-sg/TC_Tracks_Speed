@@ -9,7 +9,7 @@ https://entuedu-my.sharepoint.com/:f:/g/personal/maricar_rabonza_staff_main_ntu_
 
 ## Methodology
 
-As input, I used the tracks generated using the Synthetic Tropical cyclOne geneRation Model (STORM) algorithm (see Bloemendaal et al, Generation of a Global Synthetic Tropical cyclone Hazard Dataset using STORM, in review). In the STORM database, Philippines is in the WP basin. Each track data from STORM has information on the time step and location coordinates.
+As input, I used the tracks generated using the Synthetic Tropical cyclOne geneRation Model (STORM) algorithm (see Bloemendaal et al, Generation of a Global Synthetic Tropical cyclone Hazard Dataset using STORM, in review). In the STORM database, Philippines is in the West Pacific (WP) basin. Each track data from STORM has information on the time step and location coordinates.
 
 The translational speed is calculated as the distance divided by the time interval between consecutive time steps. Calculating the translational speed needs to consider the curvature of the Earth. Hence, I use the haversine formula in computing the great-circle distance between consecutive latitude-longitdue pairs. 
 
