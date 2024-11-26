@@ -2,7 +2,7 @@
 
 ## Overview:
 
-I calculated the translational speed (in meters per second) for synthetic tropical cyclone (TC) tracks for the [West Pacific (WP) basin](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://data.4tu.nl/file/01b2ebc7-7903-42ef-b46b-f43b9175dbf4/685bd752-6d0b-4f2c-bc55-e50f072b24d6&ved=2ahUKEwi_spP0nPmJAxUE2TgGHWsSENkQFnoECDMQAQ&usg=AOvVaw2PSB9WnIfn9c7LF1GguLWE) for both historical and future-climate conditions. Philippines is in the WP basin.
+I calculated the translational speed (in meters per second) for 10,000 years of synthetic tropical cyclone (TC) tracks for the [West Pacific (WP) basin](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://data.4tu.nl/file/01b2ebc7-7903-42ef-b46b-f43b9175dbf4/685bd752-6d0b-4f2c-bc55-e50f072b24d6&ved=2ahUKEwi_spP0nPmJAxUE2TgGHWsSENkQFnoECDMQAQ&usg=AOvVaw2PSB9WnIfn9c7LF1GguLWE) for both historical and future-climate conditions. Philippines is in the WP basin.
 
 Download the tracks with speed in the `output` folder:
 
