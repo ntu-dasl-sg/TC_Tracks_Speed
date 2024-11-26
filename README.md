@@ -2,7 +2,7 @@
 
 ## Overview:
 
-I calculated the translational speed (in meters per second) for 10,000 years of synthetic tropical cyclone (TC) tracks for the [West Pacific (WP) basin](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://data.4tu.nl/file/01b2ebc7-7903-42ef-b46b-f43b9175dbf4/685bd752-6d0b-4f2c-bc55-e50f072b24d6&ved=2ahUKEwi_spP0nPmJAxUE2TgGHWsSENkQFnoECDMQAQ&usg=AOvVaw2PSB9WnIfn9c7LF1GguLWE) for both historical and future-climate conditions. Philippines is in the WP basin.
+I calculated the translational speed (in meters per second) for 10,000 years of synthetic event-set of tropical cyclone (TC) tracks for the [West Pacific (WP) basin](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://data.4tu.nl/file/01b2ebc7-7903-42ef-b46b-f43b9175dbf4/685bd752-6d0b-4f2c-bc55-e50f072b24d6&ved=2ahUKEwi_spP0nPmJAxUE2TgGHWsSENkQFnoECDMQAQ&usg=AOvVaw2PSB9WnIfn9c7LF1GguLWE) for both historical and future-climate conditions. Philippines is in the WP basin.
 
 Future climate tracks are available for 4 CMIP6 models: 1) CMCC-CM2-VHR4; 2) CNRM-CM6-1-HR; 3) EC-Earth3P-HR; 4) HAdGEM3-GC31-HM
 
